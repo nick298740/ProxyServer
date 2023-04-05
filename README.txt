@@ -8,7 +8,7 @@ for example, to compile and run server,
 $	gcc server.c -o server
 $	./server 22000
 
-You MUST run proxy server on cse01.cse.unt.edu, or this program will not run correctly
+You MUST run proxy server on the defined IP_ADDRESS specified in client.c, or this program will not run correctly
 
 Run client on cse02.cse.unt.edu
 
