@@ -2,8 +2,9 @@ README
 For context, this was written a long time ago, during my days in University. 
 I added it as a public repo for portfolio purposes.
 However, code will not currently run as intended because it is using
-servers owned by the University of North Texas (UNT), which no one would have 
-access to, and could have changed since my time at UNT
+servers owned by the University of North Texas (UNT), which no one publically
+would have access to; also, even if you did have access to the UNT network,
+the servers could have changed since this was written so long ago.
 _______________________________________________________
 
 compile code using
